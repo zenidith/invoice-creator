@@ -10,4 +10,12 @@
   
 body {
     background-color: #1F2937;
-  }
+}
+
+button {
+    background-color: #D1D4F4;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 auto;
+}
