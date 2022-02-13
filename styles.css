@@ -54,6 +54,22 @@ body {
 
 
 .footer {
+    padding: 15px;
+    margin: 20px 50px;
+    border-radius: 10px;    
+    background: #3A69D2;
+    color: white;
+    font-size: 30px;
+}
+
+.footer-btn {
+    align-items: center;
+    background: #3A69D2;
+    color: #1F2937;
+    border: none;]
+    font-size: 3em;
+    border-radius: 10px;    
     text-transform: uppercase;
     text-align: center;
+
 }
