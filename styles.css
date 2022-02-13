@@ -42,3 +42,18 @@ body {
     border-radius: 10px;
 
 }
+
+.task   {
+    text-transform: uppercase;
+    color: antiquewhite;
+    margin: 2rem;
+}
+
+
+
+
+
+.footer {
+    text-transform: uppercase;
+    text-align: center;
+}
