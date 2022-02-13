@@ -15,11 +15,30 @@ body {
     background-color: #1F2937;
 }
 
-button {
-    display: inline-flex;
+.buttons {
     justify-content: space-between;
-    background-color: #D1D4F4;
+}
+
+.button {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+#btn1 {
+    background-color: white;
     padding: 20px;
     border-radius: 10px;
-    margin: 100px;
+}
+#btn2 {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+#btn3 {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+
 }
